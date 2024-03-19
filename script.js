@@ -19,4 +19,4 @@ rec.onresult = function(e) {
   }
 }
 
-// rec.start();
+rec.start();
